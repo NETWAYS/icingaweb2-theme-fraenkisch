@@ -1,0 +1,231 @@
+# Icinga Web 2 - Head for multiple monitoring backends.
+# Copyright (C) 2020 Icinga Development Team
+# This file is distributed under the same license as Map Module.
+# Nicolai Buchwitz <nb@odly.de>, 2017.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Map Module (1.1.0)\n"
+"Report-Msgid-Bugs-To: dev@icinga.com\n"
+"POT-Creation-Date: 2020-03-27 14:49+0100\n"
+"PO-Revision-Date: 2017-10-20 16:42+0200\n"
+"Last-Translator: Dirk Goetz <dirk.goetz@netways.de>\n"
+"Language: de_DE\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../../../../application/views/scripts/index/index.phtml:19
+msgctxt "icinga.state"
+msgid "CRITICAL"
+msgstr "Der is hie"
+
+#: ../../../../configuration.php:35
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: ../../../../configuration.php:42
+#, fuzzy
+msgid "Configure the director map datatype"
+msgstr "Konfiguration vo dem Datentyp füa Karten"
+
+#: ../../../../configuration.php:34
+msgid "Configure the map module"
+msgstr "Konfiguration vo der Karten"
+
+#: ../../../../application/forms/Config/GeneralConfigForm.php:109
+#: ../../../../application/forms/Config/GeneralConfigForm.php:110
+msgid "Dashlet height"
+msgstr "Höhe des Dashlets"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:28
+#: ../../../../application/forms/Config/GeneralConfigForm.php:29
+msgid "Default latitude (WGS84)"
+msgstr "Standard Breitengrad (WGS84)"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:38
+#: ../../../../application/forms/Config/GeneralConfigForm.php:39
+msgid "Default longitude (WGS84)"
+msgstr "Standard Längengrad (WGS84)"
+
+#: ../../../../configuration.php:4
+#, fuzzy
+msgid "Default map"
+msgstr "Standard-Zoomstufe"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:29
+#: ../../../../application/forms/Config/GeneralConfigForm.php:30
+msgid "Default map position (latitude)"
+msgstr "Mittelpunkt der Karte (Breitengrad)"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:39
+#: ../../../../application/forms/Config/GeneralConfigForm.php:40
+msgid "Default map position (longitude)"
+msgstr "Mittelpunkt der Karte (Längengrad)"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:48
+#: ../../../../application/forms/Config/GeneralConfigForm.php:49
+msgid "Default zoom level"
+msgstr "Standard-Zoomstufe"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:49
+#: ../../../../application/forms/Config/GeneralConfigForm.php:50
+msgid "Default zoom level of the map"
+msgstr "Standard-Zoomstufe des Karte"
+
+#: ../../../../configuration.php:43
+msgid "Director"
+msgstr "Deirektoa"
+
+#: ../../../../application/forms/Config/GeneralConfigForm.php:130
+msgid "Disable clustering at zoomlevel"
+msgstr "Net zam glumb"
+
+#: ../../../../application/forms/Config/GeneralConfigForm.php:131
+msgid ""
+"Don't cluster marker at a certain zoomlevel. Use 1 for disabling clustering"
+msgstr "Net zam glumb ob doa. Nimm die 1 füa obschaldn"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:89
+#: ../../../../application/forms/Config/GeneralConfigForm.php:90
+msgid "Escaped server url, for leaflet tilelayer"
+msgstr "Dou stehd dei leaflet tilelayer server"
+
+#: ../../../../configuration.php:2
+msgid "Maps"
+msgstr "Karten"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:68
+#: ../../../../application/forms/Config/GeneralConfigForm.php:69
+#, fuzzy
+msgid "Maximum native zoom level "
+msgstr "Maximale Zoomstufe"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:58
+#: ../../../../application/forms/Config/GeneralConfigForm.php:59
+msgid "Maximum zoom level"
+msgstr "Maximale Zoomstufe"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:69
+#: ../../../../application/forms/Config/GeneralConfigForm.php:70
+#, fuzzy
+msgid "Maximum zoom level natively supported by the map"
+msgstr "Maximale Zoomstufe der Karte"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:59
+#: ../../../../application/forms/Config/GeneralConfigForm.php:60
+msgid "Maximum zoom level of the map"
+msgstr "Maximale Zoomstufe der Karte"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:78
+#: ../../../../application/forms/Config/GeneralConfigForm.php:79
+msgid "Minimal zoom level"
+msgstr "Minimale Zoomstufe"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:79
+#: ../../../../application/forms/Config/GeneralConfigForm.php:80
+msgid "Minimal zoom level of the map"
+msgstr "Minimale Zoomstufe der Karte"
+
+#: ../../../../application/views/scripts/index/index.phtml:17
+msgctxt "icinga.state"
+msgid "OK"
+msgstr "Der bassd"
+
+#: ../../../../application/forms/Config/GeneralConfigForm.php:99
+msgid "OpenCage API key"
+msgstr "Schlüssl füa OpenCage API"
+
+#: ../../../../application/views/scripts/index/index.phtml:21
+msgctxt "icinga.state"
+msgid "PENDING"
+msgstr "Ungeprüft"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:15
+#: ../../../../application/forms/Config/GeneralConfigForm.php:16
+msgid "Save Changes"
+msgstr "Schreibs aff"
+
+#: ../../../../application/forms/Config/GeneralConfigForm.php:140
+msgid "Show number of problems in cluster"
+msgstr "Zeig mir die Zoahl vo der Problema"
+
+#: ../../../../application/forms/Config/GeneralConfigForm.php:141
+msgid "Show number of problems in cluster instead of the number of markers"
+msgstr "Zeig mir die Zoahl vo der Problema, net die Zoahl vo der Bilda"
+
+#: ../../../../library/Map/ProvidedHook/CubeLinks.php:31
+#: ../../../../library/Map/ProvidedHook/Monitoring/ServiceActions.php:19
+#: ../../../../library/Map/ProvidedHook/Monitoring/HostActions.php:21
+msgid "Show on map"
+msgstr "Zeig mir des aff der Karten"
+
+#: ../../../../application/forms/Config/GeneralConfigForm.php:118
+msgid "State type"
+msgstr "Zustand"
+
+#: ../../../../application/forms/Config/GeneralConfigForm.php:119
+msgid "State type for status indication"
+msgstr "Die harden oder die weichan"
+
+#: ../../../../library/Map/ProvidedHook/CubeLinks.php:32
+msgid "This shows all matching hosts and their current state on the map module"
+msgstr ""
+
+#: ../../../../application/views/scripts/index/index.phtml:20
+msgctxt "icinga.state"
+msgid "UNKNOWN"
+msgstr "Was na des"
+
+#: ../../../../application/forms/Config/DirectorConfigForm.php:88
+#: ../../../../application/forms/Config/GeneralConfigForm.php:89
+msgid "URL for tile server"
+msgstr "Doa stehd der tile server also"
+
+#: ../../../../configuration.php:6
+msgid "Visualize your hosts and services on a map"
+msgstr "Zeig mir die Systeme und Dienste aff der Karten"
+
+#: ../../../../application/views/scripts/index/index.phtml:18
+msgctxt "icinga.state"
+msgid "WARNING"
+msgstr "Schau a mal her"
+
+#: ../../../../application/forms/Config/GeneralConfigForm.php:100
+msgid "Your personal OpenCage Geocoder API key"
+msgstr "Dei Schlüssl füa der OpenCage Geocoder API"
+
+msgid "Host map"
+msgstr "Karte vo der Systeme"
+
+msgid "Marker size"
+msgstr "Gröassn vo der Bildala"
+
+msgid "Size of the host markers"
+msgstr "Gröassn vo der Bildala vo der Systeme"
+
+msgid "Zoom in"
+msgstr "A wengla gröasser"
+
+msgid "Zoom out"
+msgstr "A wengla glanner"
+
+msgid "Add to dashboard"
+msgstr "Zum Dashboard hinzufügen"
+
+msgid "Fullscreen"
+msgstr "Mach des ona da weg"
+
+msgid "Show current location"
+msgstr "Dou bin i also"
+
+msgid "Show default view"
+msgstr "Soa sehns also alle"
+
+msgid "Host is down"
+msgstr "System is hie"
