@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 #copy the existing german language and rename it
 cp /usr/share/i18n/locales/de_DE /usr/share/i18n/locales/de_FR 2> /dev/null
 localedef -i de_FR -f UTF-8 de_FR.UTF-8 2> /dev/null
@@ -13,4 +15,3 @@ icingacli module enable fraenkisch 2> /dev/null
 
 echo -e "\033[33mTo make the frankish language available you have to restart your webserver.\033[0m"
 echo -e "\033[33mIf you have a running PHP Service. Restart this, too.\033[0m"
-
